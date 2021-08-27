@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="jpa-demo5" />
+        <module name="jpa-demo4" />
+        <module name="jpa-demo3" />
         <module name="jpa-demo2" />
         <module name="jpa-demo1" />
       </profile>

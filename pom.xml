@@ -11,6 +11,9 @@
     <modules>
         <module>jpa-demo1</module>
         <module>jpa-demo2</module>
+        <module>jpa-demo3</module>
+        <module>jpa-demo4</module>
+        <module>jpa-demo5</module>
     </modules>
 
 
